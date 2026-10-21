@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alarm_notification_text">زنگ در حال پخش است. برای انجام ماموریت بیداری، نوا کوکی را باز کنید.</string>
+    <string name="alarm_channel_name">زنگ‌های بیداری</string>
+    <string name="missed_channel_name">زنگ‌های از دست رفته</string>
+    <string name="missed_alarm_text">زنگ به‌صورت خودکار متوقف شد. نوا کوکی را باز کنید.</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NOVA KOKI</string>
+    <string name="alarm_notification_text">Alarm is ringing. Open NOVA KOKI to complete your wake-up mission.</string>
+    <string name="alarm_channel_name">Wake-up alarms</string>
+    <string name="missed_channel_name">Missed alarms</string>
+    <string name="missed_alarm_text">The alarm stopped ringing automatically. Open NOVA KOKI.</string>
+</resources>
